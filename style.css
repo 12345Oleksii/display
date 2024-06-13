@@ -20,3 +20,6 @@ a[href*="www"]{
 [title*="popular"]{
     font-size: 24px;
 }
+a[href="https://www.opera.com"]{
+font-size: 24px
+}
