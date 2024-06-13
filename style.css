@@ -1,17 +1,17 @@
 li{
     margin-bottom: 16px;
 }
-ol{
-    background-color: green;
-    color: white;
+ol li {
+  background-color: green;
+  color: white;
 }
-ul{
+ul li{
     background-color: orange;
     color: white;
 }
-.ant{
-    border: 3px solid red;
+ul li:nth-child(4) span {
+  border: 3px solid red;
 }
-div{
+li:nth-child(n+4){
     margin-left: 16px;
 }
