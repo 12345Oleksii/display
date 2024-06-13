@@ -1,25 +1,17 @@
-li {
+li{
     margin-bottom: 16px;
 }
-a[target="_blank"]{
-    border: 2px solid black;
+ol{
+    background-color: green;
+    color: white;
 }
-a[href^="broken"]{
-    border: 2px solid red;
+ul{
+    background-color: orange;
+    color: white;
 }
-
-a[href$=".com"]{
-    margin-left: 50px;
+.ant{
+    border: 3px solid red;
 }
-a[lang*="en"]{
-font-size: 10px;
-}
-a[href*="www"]{
-    color: green;
-}
-[title*="popular"]{
-    font-size: 24px;
-}
-a[href="https://www.opera.com"]{
-font-size: 24px
+div{
+    margin-left: 16px;
 }
