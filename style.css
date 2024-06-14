@@ -1,16 +1,7 @@
-.div1{
-    background-color: bisque;
-    font-size: 24px;
-    box-sizing: content-box;
-    padding: 20px;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 100px;
-    width: 420px;
-    height: 140px;
-    border-top: 10px solid firebrick;
-    border-left: 20px dashed aqua;
-    border-bottom: 10px dashed burlywood;
-    border-right: 20px solid chartreuse; 
+div{
+    height: auto;
+    width: auto;
+    border: solid 3px black;
+    background-color: aqua;
+    padding: 50px;
 }
