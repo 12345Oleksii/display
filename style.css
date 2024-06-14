@@ -9,8 +9,8 @@
     margin-right: 100px;
     width: 420px;
     height: 140px;
-    border-top: 10px, solid, firebrick;
-    border-left: 20px, dashed, aqua;
-    border-bottom: 10px, dashed, burlywood;
-    border-right: 20px, solid, chartreuse; 
+    border-top: 10px solid firebrick;
+    border-left: 20px dashed aqua;
+    border-bottom: 10px dashed burlywood;
+    border-right: 20px solid chartreuse; 
 }
