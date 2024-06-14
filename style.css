@@ -1,8 +1,6 @@
-body{
+.div1{
     background-color: bisque;
     font-size: 24px
-}
-.div1{
     box-sizing: content-box;
     padding: 20px;
     margin-top: 50px;
