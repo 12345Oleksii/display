@@ -10,6 +10,6 @@ li:last-child span{
 li:nth-child(even) span{
 margin-left: 16px;
 }
-.paragraphs:nth-child(odd) p{
+.paragraphs:nth-child(odd) {
     background-color: gray;
 }
