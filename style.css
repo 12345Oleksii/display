@@ -1,7 +1,8 @@
 div{
     height: auto;
     width: auto;
-    border: solid 3px black;
+    border: solid 3px;
     background-color: aqua;
     padding: 50px;
+    margin: 50px;
 }
