@@ -1,25 +1,23 @@
 .div1{
-    background-color: pink;
-    border: solid 2px black;
-    height: auto;
-    width: auto;
-}
-.div2{
-    background-color: green;
-    border: solid 2px black;
-    height: auto;
-    width: auto;
-}
-.div3{
-    background-color: yellow;
-    border: solid 2px black;
-    height: auto;
-    width: auto;
-}
-.div4{
     background-color: blue;
     border: solid 2px black;
-    margin: 50px;
-    height: auto;
-    width: auto;
+    /* padding: 150px; */
+    padding: 50px;
+    margin 50px
+}
+.div2{
+    background-color: yellow;
+    border: solid 2px black;
+    padding: 50px;
+}
+.div3{
+    background-color: green;
+    border: solid 2px black;
+    padding: 50px;
+}
+.div4{
+    background-color: pink;
+    border: solid 2px black;
+    padding: 50px;
+    
 }
