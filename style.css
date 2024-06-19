@@ -5,7 +5,7 @@
     margin: 50px;
     width: 100px;
     height: 50px;
-    border-radius: 15px;
+    border-radius: 18px;
 }
 .div2{
     background-color: darkmagenta;
@@ -27,5 +27,7 @@
 	border-left: 50px solid transparent;
 	border-right: 50px solid transparent;
 	border-top: 50px solid brown;
-    margin: 50px;
+        margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
