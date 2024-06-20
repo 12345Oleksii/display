@@ -55,5 +55,5 @@ div {
   }
   .fixed-parent{
     position: fixed;
-    margin-top: 20px;
-    margin-right: 30px;
+    top: 20px;
+    right: 30px;
