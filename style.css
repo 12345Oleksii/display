@@ -10,7 +10,7 @@ body {
 .container {
   width: 50%;
   background: aquamarine;
-  padding: 16px;
+/*   padding: 16px; */
   box-sizing: border-box;
 }
 
