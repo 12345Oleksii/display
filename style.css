@@ -1,13 +1,14 @@
 * {
   box-sizing: border-box;
 }
-
+/* 
 body {
   float: left;
 /*   flex-wrap: wrap; */
 }
-
+ */
 .container {
+  float: left;
   width: 50%;
   background: aquamarine;
   padding: 16px;
