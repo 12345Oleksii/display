@@ -1,20 +1,23 @@
 main{
   background-color: pink;
   height: 500px; 
-  float: right;
-width: 20%;}
+  float: left;
+width: 80%;}
 
 .sidebar{
   background-color: grey; 
   height: 500px;
-  width: 80%;
-  float: left;
+  width: 20%;
+  float: right;
 }
 footer{
-  height: 50px;
   background-color: green;
+  height: 550px;
 }
 header{
   height: 50px;
   background-color: yellow;
+}
+body{
+  box-sizing: border-box;
 }
