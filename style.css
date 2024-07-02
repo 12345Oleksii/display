@@ -13,9 +13,9 @@
 .block_black{
   background-color: black;
 }
-*{
-  box-sizing: border-box;
-}
-div{
-  height: 200px;
-}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  width: 100vw;
+  height: 200px; }
