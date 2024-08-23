@@ -16,12 +16,14 @@ header {
     top: -20px;
   }  
   .nav-item{
-    justify-content:center;
-    align-items: center;
-    display: flex;
+    /* justify-content:center; */
+    /* align-items: center; */
+    /* display: flex; */
     color: white;
-    padding: 16px;
+    margin-left: 16px;
     list-style-type: none;
+    line-height: 40px;
+    /* line-height: 0%; */
   }
 
 main{
